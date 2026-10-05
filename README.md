@@ -2,7 +2,7 @@
 
 **Senior Full-Stack Engineer** · Bengaluru, India
 
-4+ years building production software across full-stack engineering and ML/LLM agent systems. Currently Senior Fullstack Developer @ Pharmarack. IIT Bombay Executive PG Diploma in ML & Data Science (in progress).
+4+ years building production software across full-stack engineering and ML/LLM agent systems. Currently Senior Fullstack Developer.
 
 ## What I work on
 
